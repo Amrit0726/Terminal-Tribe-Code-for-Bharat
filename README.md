@@ -52,9 +52,6 @@ https://drive.google.com/file/d/1VcX4VQ-twa1Jfc5P5vrhoeZJ0tup90Ww/view?usp=shari
 
 ---
 
-## ⚠️ Note
-
-This MVP was built during HackOrbit 2025 using Glide (no-code tool) and logic designed with ChatGPT. All development was done within the hackathon window.
 
 We’re open to rebuilding the app using Flutter or React in the next stage if required.
 
